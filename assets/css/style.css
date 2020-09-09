@@ -84,7 +84,7 @@ article section img {
     max-height: 200px;
 }
 
-article section h2 {
+article section h1 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -105,7 +105,7 @@ aside section {
     color: #ffffff;
 }
 
-aside section H3 {
+aside section H1 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -123,6 +123,6 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+footer h1 {
     font-size: 20px;
 }
