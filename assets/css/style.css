@@ -71,7 +71,7 @@ article {
     margin-left: 20px;
 }
 
-section {
+article section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -80,16 +80,16 @@ section {
     color: #ffffff;
 }
 
-section img {
+article section img {
     max-height: 200px;
 }
 
-section h2 {
+article section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -100,17 +100,17 @@ section h2 {
     background-color: #2589bd;
 }
 
-.benefit {
+aside section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit H3 {
+aside section H3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit img {
+aside section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
