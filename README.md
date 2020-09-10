@@ -7,15 +7,15 @@ Horiseon Social Solutions provides web services for businesses to boost their vi
 The goal of this repository is to optimize Horiseon's source code by eliminating redundancies, increasing code readability, and promoting accessibility across a variety of platforms and users. It is critical that the code is refactored to be up-to-date with web conventions and ease the implementation of feature-based updates.  
 
 ### Redundancy & Code Readability
-> Implemented semantic html elements
-> Ensured logical structure of html elements
-> Added comments describing the function of each code section
-> Corrected heading attribute hierarchy
+* Implemented semantic html elements
+* Ensured logical structure of html elements
+* Added comments describing the function of each code section
+* Corrected heading attribute hierarchy
 
 ### User Accessibility
-> Implemented alt tags for images
-> Corrected link functionality
-> Added website title
+* Implemented alt tags for images
+* Corrected link functionality
+* Added website title
 
 ## Usage
 
